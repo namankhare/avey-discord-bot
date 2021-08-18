@@ -1,5 +1,4 @@
 # avey-discord-bot
-===========
 ⭐️ **Build Your Own Discord Music Bot**
 ⭐️ **A simple discord music bot (fetch music from youtube only)**
 ## **Installation** 
