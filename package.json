@@ -1,0 +1,29 @@
+{
+  "name": "avey-discord-bot",
+  "version": "1.0.0",
+  "repository": "https://github.com/namankhare/avey-discord-bot.git",
+  "description": "A simple discord music bot (fetch music from youtube only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js/"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot"
+  ],
+  "author": "Naman Khare",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "nodemon": "^2.0.12",
+    "opusscript": "0.0.7",
+    "single-yt-search-result": "^1.0.2",
+    "ytdl-core": "^4.9.0"
+  }
+}
